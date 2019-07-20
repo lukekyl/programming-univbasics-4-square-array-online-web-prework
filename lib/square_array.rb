@@ -4,4 +4,5 @@ def square_array(array)
   while counter < array.length do
     new_numbers.unshift(**array[counter])
   end
+  new_numbers
 end
