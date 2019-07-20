@@ -5,5 +5,5 @@ def square_array(array)
     new_numbers.unshift(array[counter] ** 2)
     counter += 1
   end
-  new_numbers
+  
 end
