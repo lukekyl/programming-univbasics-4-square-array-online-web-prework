@@ -5,7 +5,7 @@ def square_array(array)
     valueSquared = array[counter] ** 2
     array[counter] = valueSquared
     counter += 1
-    
   end
+  
   array
 end
